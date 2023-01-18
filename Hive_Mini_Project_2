@@ -1,5 +1,5 @@
 -- 
--- hi sir the actuall file is almost 2 gb so my cloudera is not able to process the data so i took few records fro the assignment as shashank sir said you dont need to take all THEN
+-- hi sir the actuall file is almost 2 gb so my cloudera is not able to process the data so i took few records for the assignment  THEN
 -- the data for this
 creating a local table first using csv file 
 --first creating  a temp table 
